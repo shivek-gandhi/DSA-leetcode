@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shivek-gandhi/DSA/tree/master/0009-palindrome-number) |
+| [1622-fancy-sequence](https://github.com/shivek-gandhi/DSA/tree/master/1622-fancy-sequence) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shivek-gandhi/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/shivek-gandhi/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/shivek-gandhi/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/shivek-gandhi/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/shivek-gandhi/DSA/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/shivek-gandhi/DSA/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
