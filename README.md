@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/shivek-gandhi/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1980-find-unique-binary-string](https://github.com/shivek-gandhi/DSA/tree/master/1980-find-unique-binary-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shivek-gandhi/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivek-gandhi/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/shivek-gandhi/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivek-gandhi/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Counting
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shivek-gandhi/DSA/tree/master/0015-3sum) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivek-gandhi/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivek-gandhi/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivek-gandhi/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shivek-gandhi/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## String
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/shivek-gandhi/DSA/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/shivek-gandhi/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shivek-gandhi/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivek-gandhi/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Sliding Window
 |  |
 | ------- |
