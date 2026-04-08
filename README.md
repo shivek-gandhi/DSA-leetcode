@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shivek-gandhi/DSA/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/shivek-gandhi/DSA/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/shivek-gandhi/DSA/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/shivek-gandhi/DSA/tree/master/2069-walking-robot-simulation-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shivek-gandhi/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivek-gandhi/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/shivek-gandhi/DSA/tree/master/0054-spiral-matrix) |
 | [0874-walking-robot-simulation](https://github.com/shivek-gandhi/DSA/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivek-gandhi/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shivek-gandhi/DSA/tree/master/0054-spiral-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
