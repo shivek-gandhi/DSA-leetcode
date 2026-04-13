@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/shivek-gandhi/DSA/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivek-gandhi/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1470-shuffle-the-array](https://github.com/shivek-gandhi/DSA/tree/master/1470-shuffle-the-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shivek-gandhi/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
