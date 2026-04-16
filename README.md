@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shivek-gandhi/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/shivek-gandhi/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivek-gandhi/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/shivek-gandhi/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shivek-gandhi/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivek-gandhi/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shivek-gandhi/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shivek-gandhi/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivek-gandhi/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/shivek-gandhi/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3488-closest-equal-element-queries](https://github.com/shivek-gandhi/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivek-gandhi/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shivek-gandhi/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shivek-gandhi/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivek-gandhi/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3488-closest-equal-element-queries](https://github.com/shivek-gandhi/DSA/tree/master/3488-closest-equal-element-queries) |
 ## Enumeration
 |  |
 | ------- |
