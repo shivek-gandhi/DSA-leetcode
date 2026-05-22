@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shivek-gandhi/DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/shivek-gandhi/DSA/tree/master/0070-climbing-stairs) |
 | [1622-fancy-sequence](https://github.com/shivek-gandhi/DSA/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivek-gandhi/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivek-gandhi/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shivek-gandhi/DSA/tree/master/0070-climbing-stairs) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shivek-gandhi/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivek-gandhi/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shivek-gandhi/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shivek-gandhi/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
