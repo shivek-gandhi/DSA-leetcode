@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shivek-gandhi/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/shivek-gandhi/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/shivek-gandhi/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/shivek-gandhi/DSA/tree/master/0064-minimum-path-sum) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shivek-gandhi/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0485-max-consecutive-ones](https://github.com/shivek-gandhi/DSA/tree/master/0485-max-consecutive-ones) |
 | [0874-walking-robot-simulation](https://github.com/shivek-gandhi/DSA/tree/master/0874-walking-robot-simulation) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/shivek-gandhi/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shivek-gandhi/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/shivek-gandhi/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shivek-gandhi/DSA/tree/master/0070-climbing-stairs) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shivek-gandhi/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/shivek-gandhi/DSA/tree/master/1340-jump-game-v) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivek-gandhi/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/shivek-gandhi/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/shivek-gandhi/DSA/tree/master/0064-minimum-path-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
