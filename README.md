@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shivek-gandhi/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivek-gandhi/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shivek-gandhi/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shivek-gandhi/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shivek-gandhi/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shivek-gandhi/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/shivek-gandhi/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivek-gandhi/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/shivek-gandhi/DSA/tree/master/1861-rotating-the-box) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shivek-gandhi/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shivek-gandhi/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shivek-gandhi/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Stack
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/shivek-gandhi/DSA/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivek-gandhi/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shivek-gandhi/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shivek-gandhi/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivek-gandhi/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/shivek-gandhi/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shivek-gandhi/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shivek-gandhi/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivek-gandhi/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3161-block-placement-queries](https://github.com/shivek-gandhi/DSA/tree/master/3161-block-placement-queries) |
 | [3488-closest-equal-element-queries](https://github.com/shivek-gandhi/DSA/tree/master/3488-closest-equal-element-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shivek-gandhi/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Enumeration
 |  |
 | ------- |
