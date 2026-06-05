@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shivek-gandhi/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/shivek-gandhi/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivek-gandhi/DSA/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/shivek-gandhi/DSA/tree/master/0120-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shivek-gandhi/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0485-max-consecutive-ones](https://github.com/shivek-gandhi/DSA/tree/master/0485-max-consecutive-ones) |
 | [0874-walking-robot-simulation](https://github.com/shivek-gandhi/DSA/tree/master/0874-walking-robot-simulation) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/shivek-gandhi/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivek-gandhi/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shivek-gandhi/DSA/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/shivek-gandhi/DSA/tree/master/0120-triangle) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shivek-gandhi/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/shivek-gandhi/DSA/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
