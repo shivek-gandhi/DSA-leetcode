@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shivek-gandhi/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/shivek-gandhi/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivek-gandhi/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shivek-gandhi/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shivek-gandhi/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shivek-gandhi/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivek-gandhi/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shivek-gandhi/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivek-gandhi/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/shivek-gandhi/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Matrix
 |  |
 | ------- |
