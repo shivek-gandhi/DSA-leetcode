@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivek-gandhi/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shivek-gandhi/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/shivek-gandhi/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/shivek-gandhi/DSA/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shivek-gandhi/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivek-gandhi/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shivek-gandhi/DSA/tree/master/0242-valid-anagram) |
 | [1340-jump-game-v](https://github.com/shivek-gandhi/DSA/tree/master/1340-jump-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivek-gandhi/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/shivek-gandhi/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/shivek-gandhi/DSA/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivek-gandhi/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2126-destroying-asteroids](https://github.com/shivek-gandhi/DSA/tree/master/2126-destroying-asteroids) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivek-gandhi/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/shivek-gandhi/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shivek-gandhi/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/shivek-gandhi/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shivek-gandhi/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -370,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/shivek-gandhi/DSA/tree/master/3161-block-placement-queries) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/shivek-gandhi/DSA/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
