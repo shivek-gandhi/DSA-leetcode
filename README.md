@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/shivek-gandhi/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shivek-gandhi/DSA/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivek-gandhi/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shivek-gandhi/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shivek-gandhi/DSA/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/shivek-gandhi/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shivek-gandhi/DSA/tree/master/0206-reverse-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shivek-gandhi/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/shivek-gandhi/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shivek-gandhi/DSA/tree/master/0015-3sum) |
+| [0143-reorder-list](https://github.com/shivek-gandhi/DSA/tree/master/0143-reorder-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivek-gandhi/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/shivek-gandhi/DSA/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivek-gandhi/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivek-gandhi/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/shivek-gandhi/DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivek-gandhi/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shivek-gandhi/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/shivek-gandhi/DSA/tree/master/2751-robot-collisions) |
