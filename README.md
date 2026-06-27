@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/shivek-gandhi/DSA/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/shivek-gandhi/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivek-gandhi/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shivek-gandhi/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shivek-gandhi/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/shivek-gandhi/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/shivek-gandhi/DSA/tree/master/3161-block-placement-queries) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/shivek-gandhi/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shivek-gandhi/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shivek-gandhi/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shivek-gandhi/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shivek-gandhi/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shivek-gandhi/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/shivek-gandhi/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shivek-gandhi/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivek-gandhi/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivek-gandhi/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Union-Find
