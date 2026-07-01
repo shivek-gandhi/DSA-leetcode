@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/shivek-gandhi/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shivek-gandhi/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2751-robot-collisions](https://github.com/shivek-gandhi/DSA/tree/master/2751-robot-collisions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shivek-gandhi/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/shivek-gandhi/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivek-gandhi/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shivek-gandhi/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivek-gandhi/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shivek-gandhi/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/shivek-gandhi/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shivek-gandhi/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/shivek-gandhi/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shivek-gandhi/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shivek-gandhi/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivek-gandhi/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shivek-gandhi/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/shivek-gandhi/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Greedy
 |  |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shivek-gandhi/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivek-gandhi/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shivek-gandhi/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/shivek-gandhi/DSA/tree/master/3161-block-placement-queries) |
 | [3488-closest-equal-element-queries](https://github.com/shivek-gandhi/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shivek-gandhi/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/shivek-gandhi/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shivek-gandhi/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -434,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivek-gandhi/DSA/tree/master/0042-trapping-rain-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shivek-gandhi/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
