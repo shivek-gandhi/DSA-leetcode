@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shivek-gandhi/DSA/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/shivek-gandhi/DSA/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/shivek-gandhi/DSA/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/shivek-gandhi/DSA/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/shivek-gandhi/DSA/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/shivek-gandhi/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shivek-gandhi/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shivek-gandhi/DSA/tree/master/0485-max-consecutive-ones) |
 | [0874-walking-robot-simulation](https://github.com/shivek-gandhi/DSA/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivek-gandhi/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1260-shift-2d-grid](https://github.com/shivek-gandhi/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shivek-gandhi/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shivek-gandhi/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/shivek-gandhi/DSA/tree/master/1340-jump-game-v) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shivek-gandhi/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/shivek-gandhi/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shivek-gandhi/DSA/tree/master/0064-minimum-path-sum) |
+| [1260-shift-2d-grid](https://github.com/shivek-gandhi/DSA/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
