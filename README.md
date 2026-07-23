@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/shivek-gandhi/DSA/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/shivek-gandhi/DSA/tree/master/0120-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shivek-gandhi/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/shivek-gandhi/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/shivek-gandhi/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/shivek-gandhi/DSA/tree/master/0485-max-consecutive-ones) |
 | [0874-walking-robot-simulation](https://github.com/shivek-gandhi/DSA/tree/master/0874-walking-robot-simulation) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shivek-gandhi/DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/shivek-gandhi/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0874-walking-robot-simulation](https://github.com/shivek-gandhi/DSA/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivek-gandhi/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/shivek-gandhi/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shivek-gandhi/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/shivek-gandhi/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/shivek-gandhi/DSA/tree/master/0143-reorder-list) |
+| [0349-intersection-of-two-arrays](https://github.com/shivek-gandhi/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivek-gandhi/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/shivek-gandhi/DSA/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivek-gandhi/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shivek-gandhi/DSA/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/shivek-gandhi/DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/shivek-gandhi/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1288-remove-covered-intervals](https://github.com/shivek-gandhi/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shivek-gandhi/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/shivek-gandhi/DSA/tree/master/1340-jump-game-v) |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivek-gandhi/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shivek-gandhi/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/shivek-gandhi/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shivek-gandhi/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivek-gandhi/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
