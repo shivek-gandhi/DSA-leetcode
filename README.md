@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/shivek-gandhi/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/shivek-gandhi/DSA/tree/master/1340-jump-game-v) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivek-gandhi/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/shivek-gandhi/DSA/tree/master/1470-shuffle-the-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shivek-gandhi/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/shivek-gandhi/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shivek-gandhi/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/shivek-gandhi/DSA/tree/master/1340-jump-game-v) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivek-gandhi/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivek-gandhi/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/shivek-gandhi/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/shivek-gandhi/DSA/tree/master/1840-maximum-building-height) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivek-gandhi/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivek-gandhi/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivek-gandhi/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shivek-gandhi/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
