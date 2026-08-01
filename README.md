@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shivek-gandhi/DSA/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/shivek-gandhi/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shivek-gandhi/DSA/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/shivek-gandhi/DSA/tree/master/0486-predict-the-winner) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shivek-gandhi/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/shivek-gandhi/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Math
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shivek-gandhi/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shivek-gandhi/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shivek-gandhi/DSA/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/shivek-gandhi/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivek-gandhi/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shivek-gandhi/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/shivek-gandhi/DSA/tree/master/1622-fancy-sequence) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shivek-gandhi/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/shivek-gandhi/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/shivek-gandhi/DSA/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/shivek-gandhi/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivek-gandhi/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/shivek-gandhi/DSA/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivek-gandhi/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shivek-gandhi/DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/shivek-gandhi/DSA/tree/master/0120-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/shivek-gandhi/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/shivek-gandhi/DSA/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivek-gandhi/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivek-gandhi/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/shivek-gandhi/DSA/tree/master/1092-shortest-common-supersequence) |
@@ -572,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivek-gandhi/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivek-gandhi/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivek-gandhi/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shivek-gandhi/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
