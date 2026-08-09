@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shivek-gandhi/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivek-gandhi/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shivek-gandhi/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/shivek-gandhi/DSA/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shivek-gandhi/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/shivek-gandhi/DSA/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/shivek-gandhi/DSA/tree/master/1622-fancy-sequence) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/shivek-gandhi/DSA/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/shivek-gandhi/DSA/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/shivek-gandhi/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1140-stone-game-ii](https://github.com/shivek-gandhi/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/shivek-gandhi/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shivek-gandhi/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shivek-gandhi/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/shivek-gandhi/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0877-stone-game](https://github.com/shivek-gandhi/DSA/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/shivek-gandhi/DSA/tree/master/1092-shortest-common-supersequence) |
+| [1140-stone-game-ii](https://github.com/shivek-gandhi/DSA/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/shivek-gandhi/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivek-gandhi/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shivek-gandhi/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/shivek-gandhi/DSA/tree/master/1140-stone-game-ii) |
 | [1871-jump-game-vii](https://github.com/shivek-gandhi/DSA/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivek-gandhi/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/shivek-gandhi/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -608,14 +612,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/shivek-gandhi/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shivek-gandhi/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/shivek-gandhi/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivek-gandhi/DSA/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/shivek-gandhi/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivek-gandhi/DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/shivek-gandhi/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivek-gandhi/DSA/tree/master/1406-stone-game-iii) |
 ## Quickselect
 |  |
