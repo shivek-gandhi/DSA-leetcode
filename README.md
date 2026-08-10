@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shivek-gandhi/DSA/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shivek-gandhi/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/shivek-gandhi/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shivek-gandhi/DSA/tree/master/1510-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/shivek-gandhi/DSA/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/shivek-gandhi/DSA/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivek-gandhi/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shivek-gandhi/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/shivek-gandhi/DSA/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/shivek-gandhi/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shivek-gandhi/DSA/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/shivek-gandhi/DSA/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivek-gandhi/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -614,18 +616,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shivek-gandhi/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shivek-gandhi/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivek-gandhi/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shivek-gandhi/DSA/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shivek-gandhi/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivek-gandhi/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shivek-gandhi/DSA/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shivek-gandhi/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivek-gandhi/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shivek-gandhi/DSA/tree/master/1510-stone-game-iv) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivek-gandhi/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shivek-gandhi/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shivek-gandhi/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
