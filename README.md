@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shivek-gandhi/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shivek-gandhi/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/shivek-gandhi/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivek-gandhi/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/shivek-gandhi/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/shivek-gandhi/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/shivek-gandhi/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shivek-gandhi/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/shivek-gandhi/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivek-gandhi/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivek-gandhi/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
