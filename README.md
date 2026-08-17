@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/shivek-gandhi/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/shivek-gandhi/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivek-gandhi/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/shivek-gandhi/DSA/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/shivek-gandhi/DSA/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/shivek-gandhi/DSA/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivek-gandhi/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivek-gandhi/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/shivek-gandhi/DSA/tree/master/1470-shuffle-the-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shivek-gandhi/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1563-stone-game-v](https://github.com/shivek-gandhi/DSA/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shivek-gandhi/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/shivek-gandhi/DSA/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/shivek-gandhi/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivek-gandhi/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/shivek-gandhi/DSA/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/shivek-gandhi/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/shivek-gandhi/DSA/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shivek-gandhi/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shivek-gandhi/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shivek-gandhi/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shivek-gandhi/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/shivek-gandhi/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/shivek-gandhi/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
