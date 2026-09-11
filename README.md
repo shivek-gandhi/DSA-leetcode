@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shivek-gandhi/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shivek-gandhi/DSA/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/shivek-gandhi/DSA/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shivek-gandhi/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shivek-gandhi/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/shivek-gandhi/DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Math
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shivek-gandhi/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivek-gandhi/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shivek-gandhi/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shivek-gandhi/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/shivek-gandhi/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shivek-gandhi/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shivek-gandhi/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/shivek-gandhi/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivek-gandhi/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shivek-gandhi/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shivek-gandhi/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/shivek-gandhi/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivek-gandhi/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivek-gandhi/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/shivek-gandhi/DSA/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shivek-gandhi/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivek-gandhi/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shivek-gandhi/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shivek-gandhi/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shivek-gandhi/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shivek-gandhi/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
