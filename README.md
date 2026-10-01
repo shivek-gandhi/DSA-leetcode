@@ -726,4 +726,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivek-gandhi/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivek-gandhi/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/shivek-gandhi/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
