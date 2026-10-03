@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shivek-gandhi/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivek-gandhi/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivek-gandhi/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/shivek-gandhi/DSA/tree/master/0143-reorder-list) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shivek-gandhi/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivek-gandhi/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/shivek-gandhi/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shivek-gandhi/DSA/tree/master/0063-unique-paths-ii) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shivek-gandhi/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/shivek-gandhi/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/shivek-gandhi/DSA/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivek-gandhi/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivek-gandhi/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -724,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shivek-gandhi/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivek-gandhi/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivek-gandhi/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
